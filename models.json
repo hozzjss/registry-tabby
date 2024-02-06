@@ -113,6 +113,6 @@
     "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-7b-base-v1.5",
     "urls": [
       "https://huggingface.co/dagbs/deepseek-coder-7b-base-v1.5-GGUF/blob/main/deepseek-coder-7b-base-v1.5.Q5_K_M.gguf"
-    ],
+    ]
   }
 ]
